@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\17_chronospatial.computer\\chronospatial.computer\\chronospatial.computer\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|solutionrelative:chronospatial.computer\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\17_chronospatial.computer\\chronospatial.computer\\chronospatial.computer\\smallinput.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|solutionrelative:chronospatial.computer\\smallinput.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\17_chronospatial.computer\\chronospatial.computer\\chronospatial.computer\\method2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|solutionrelative:chronospatial.computer\\method2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\17_chronospatial.computer\\chronospatial.computer\\chronospatial.computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|solutionrelative:chronospatial.computer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\17_chronospatial.computer\\chronospatial.computer\\chronospatial.computer\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B86EC1-52CE-4475-A231-ACBF81FA25EB}|Chronospatial.Computer\\Chronospatial.Computer.csproj|solutionrelative:chronospatial.computer\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Method2.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Method2.cs",
+              "RelativeDocumentMoniker": "Chronospatial.Computer\\Method2.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Method2.cs",
+              "RelativeToolTip": "Chronospatial.Computer\\Method2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:51:08.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Method.cs",
+              "RelativeDocumentMoniker": "Chronospatial.Computer\\Method.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Method.cs",
+              "RelativeToolTip": "Chronospatial.Computer\\Method.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:58:34.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Input.txt",
+              "RelativeDocumentMoniker": "Chronospatial.Computer\\Input.txt",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Input.txt",
+              "RelativeToolTip": "Chronospatial.Computer\\Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-17T07:36:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmallInput.txt",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\SmallInput.txt",
+              "RelativeDocumentMoniker": "Chronospatial.Computer\\SmallInput.txt",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\SmallInput.txt",
+              "RelativeToolTip": "Chronospatial.Computer\\SmallInput.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-17T07:36:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Program.cs",
+              "RelativeDocumentMoniker": "Chronospatial.Computer\\Program.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\17_Chronospatial.Computer\\Chronospatial.Computer\\Chronospatial.Computer\\Program.cs",
+              "RelativeToolTip": "Chronospatial.Computer\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:33:33.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

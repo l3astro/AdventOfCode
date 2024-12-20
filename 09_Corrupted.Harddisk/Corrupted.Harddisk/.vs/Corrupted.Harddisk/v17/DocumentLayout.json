@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\09_corrupted.harddisk\\corrupted.harddisk\\corrupted.harddisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|solutionrelative:corrupted.harddisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\09_corrupted.harddisk\\corrupted.harddisk\\corrupted.harddisk\\method1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|solutionrelative:corrupted.harddisk\\method1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\09_corrupted.harddisk\\corrupted.harddisk\\corrupted.harddisk\\method2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|solutionrelative:corrupted.harddisk\\method2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\09_corrupted.harddisk\\corrupted.harddisk\\corrupted.harddisk\\smallinput.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|solutionrelative:corrupted.harddisk\\smallinput.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\09_corrupted.harddisk\\corrupted.harddisk\\corrupted.harddisk\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40CFE92C-29BB-45FF-8E74-4AFC6EB4D5AC}|Corrupted.Harddisk\\Corrupted.Harddisk.csproj|solutionrelative:corrupted.harddisk\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Program.cs",
+              "RelativeDocumentMoniker": "Corrupted.Harddisk\\Program.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Program.cs",
+              "RelativeToolTip": "Corrupted.Harddisk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:21:50.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Method2.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Method2.cs",
+              "RelativeDocumentMoniker": "Corrupted.Harddisk\\Method2.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Method2.cs",
+              "RelativeToolTip": "Corrupted.Harddisk\\Method2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:06:46.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Method1.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Method1.cs",
+              "RelativeDocumentMoniker": "Corrupted.Harddisk\\Method1.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Method1.cs",
+              "RelativeToolTip": "Corrupted.Harddisk\\Method1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:28:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmallInput.txt",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\SmallInput.txt",
+              "RelativeDocumentMoniker": "Corrupted.Harddisk\\SmallInput.txt",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\SmallInput.txt",
+              "RelativeToolTip": "Corrupted.Harddisk\\SmallInput.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T13:23:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Input.txt",
+              "RelativeDocumentMoniker": "Corrupted.Harddisk\\Input.txt",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\09_Corrupted.Harddisk\\Corrupted.Harddisk\\Corrupted.Harddisk\\Input.txt",
+              "RelativeToolTip": "Corrupted.Harddisk\\Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfTgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T13:22:43.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\03_Corrupted.Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4C2B8-2AF8-4358-980C-4BCDA098F18D}|Corrupted.Code\\Corrupted.Code.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\03_corrupted.code\\corrupted.code\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E4C2B8-2AF8-4358-980C-4BCDA098F18D}|Corrupted.Code\\Corrupted.Code.csproj|solutionrelative:corrupted.code\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E4C2B8-2AF8-4358-980C-4BCDA098F18D}|Corrupted.Code\\Corrupted.Code.csproj|c:\\users\\lga\\desktop\\groovebase\\adventofcode\\03_corrupted.code\\corrupted.code\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E4C2B8-2AF8-4358-980C-4BCDA098F18D}|Corrupted.Code\\Corrupted.Code.csproj|solutionrelative:corrupted.code\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\03_Corrupted.Code\\Corrupted.Code\\Programm.cs",
+              "RelativeDocumentMoniker": "Corrupted.Code\\Programm.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\03_Corrupted.Code\\Corrupted.Code\\Programm.cs",
+              "RelativeToolTip": "Corrupted.Code\\Programm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:56:44.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\03_Corrupted.Code\\Corrupted.Code\\Methods.cs",
+              "RelativeDocumentMoniker": "Corrupted.Code\\Methods.cs",
+              "ToolTip": "C:\\Users\\lga\\Desktop\\grooveBASE\\AdventOfCode\\03_Corrupted.Code\\Corrupted.Code\\Methods.cs",
+              "RelativeToolTip": "Corrupted.Code\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:51:27.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
